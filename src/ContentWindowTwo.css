@@ -48,14 +48,12 @@ h5 {
 
 .pppp {
     font-size: 20px;
-    color: gray;
 }
 
 .liveDemo {
     font-size: 20px;
     /* text-decoration: underline 1px; */
     border-bottom: gray solid 1px;
-    color: darkgray;
     font-weight: bold;
 }
 
