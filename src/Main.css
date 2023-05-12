@@ -1,0 +1,105 @@
+.containor2 {
+    background: #E8E8E8;
+    width:100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 200px 50px 200px;
+    
+}
+
+.backgroundImg {
+    background: url(pictureForProject.jpeg);
+    background-size: cover;
+    width: 400px;
+    height: 560px;
+    border-radius: 10px;
+    position: relative;
+}
+
+.imgContainor {
+    padding: 0 400px 0 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.firstRowH1 {
+    margin-bottom: 0;
+    margin-top: 100px;
+}
+
+.secoundRowH1 {
+    margin-top: 0;
+}
+
+.firstRowP {
+    margin-bottom: 0;
+}
+
+.secoundRowP {
+    margin-top: 3px;
+}
+
+
+
+.wid {
+    width: 150px;
+    height: 130px;
+    position: absolute;
+    background: white;
+    left: 30px;
+    top: 30px;
+    border-radius: 10px;
+}
+
+.aprilErnings {
+    text-align: center;
+    border-bottom: solid grey 1px;
+    margin: 20px 20px 0 20px;
+    padding-bottom: 5px; 
+}
+
+.money {
+    margin: 10px 0 10px 20px;
+    font-weight: bold;
+}
+
+.btnWid {
+    background: black;
+    border: none;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    border-radius: 5px;
+}
+
+.btnContainor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.checkUl {
+    /* list-style: circle inside url("check-mark-white-on-black-circular-background_icon-icons.com_70768.png"); */
+    padding-left: 0;
+    margin-left: 17px;
+    margin-bottom: 35px;
+}
+
+li {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.inputEmail {
+    height: 55px;
+    margin-right: 10px;
+    text-align: center;
+    border-radius: 5px;
+    border: gray solid 1px;
+}
+
+
+
+
