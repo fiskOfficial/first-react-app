@@ -5,7 +5,7 @@ function Animation () {
         <div>
             <div className="backgroundLogo"></div>
         </div>
-    )
+    );
 }
 
 export default Animation

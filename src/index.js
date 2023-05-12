@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import Main from "./Main.js";
 import Animation from "./animation"
+import ContentWindow from "./ContentWindow.js"
+import ContentWindowTwo from './ContentWindowTwo.js';
+import Footer from "./Footer.js"
 // import App from './App';
 import TopPromotion from "./Nav"
 import reportWebVitals from './reportWebVitals';
@@ -12,7 +15,10 @@ root.render(
   <React.StrictMode>
     <TopPromotion />
     <Main/>
-    <Animation />
+    <Animation /> 
+    <ContentWindow />
+    <ContentWindowTwo />
+    <Footer />
   </React.StrictMode>
  
 );

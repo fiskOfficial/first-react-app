@@ -1,0 +1,68 @@
+.ContentWindowTwo {
+    margin: 0 200px 100px 200px;
+    display: flex;
+    flex-direction: row;
+}
+
+.italicBarImgContainor {
+    background-image: url("italics.png");
+    width: 500px;
+    height: 40px;
+}
+
+
+.lionImgCon {
+    background-image:url("6d8b8f60745221.5a57a03da67ea.png");
+    width: 500px;
+    height: 200px;
+    background-size: cover;
+}
+
+.leftFlex {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 0 0 1px 0 black;
+
+}
+
+.leftContainor {
+    width:50%;
+    /* margin-left: 100px; */
+}
+
+h4 {
+    font-size: 25px;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+
+h5 {
+    font-size: 49px;
+    margin-bottom: 20px;
+
+}
+
+.pppp {
+    font-size: 20px;
+    color: gray;
+}
+
+.liveDemo {
+    font-size: 20px;
+    /* text-decoration: underline 1px; */
+    border-bottom: gray solid 1px;
+    color: darkgray;
+    font-weight: bold;
+}
+
+.footerH {
+    font-size: 19px;
+}
+
+.rightContainor {
+    margin-left: 40px;
+}

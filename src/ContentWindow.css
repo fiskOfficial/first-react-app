@@ -1,0 +1,76 @@
+.containorBackground {
+    margin: 0 200px 100px 200px;
+    background: #e8e8e8;
+}
+
+.firstRowH2,.secoundRowH2 {
+    font-size: 35px;
+}
+
+.firstRowH2 {
+    margin-bottom: 0;
+}
+ 
+.secoundRowH2 {
+    margin-top: 0;
+}
+
+.paddingDiv {
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.escrowL {
+    margin: 45px 40px 20px 95px;
+}
+
+.escrowL p {
+    margin: 3px;
+}
+
+.escrowArrow {
+    margin: 40px 235px 0 0 ;
+    font-weight: bold;
+    /* text-decoration: underline 1px; */
+    border-bottom: black solid 1px;
+}
+
+.iPhone {
+    width: 380px;
+    height: 350px;
+    background-size: cover;
+    background-image: url("istockphoto-1405839027-612x612.jpg");
+    top: 12.9%;
+    left: -18%;
+    position: relative;
+    color: white;
+}
+
+h3 {
+    position: relative;
+    font-size: 30px;
+    left: 30px;
+    top: 70px;
+}
+
+.iPhone p {
+    position:relative;
+    left: 30px;
+    top: 70px;
+}
+
+.whiteSquire {
+    width: 300px;
+    height: 25px;
+    background: white;
+    position: relative;
+    border-radius: 5px 5px 0 0;
+    top: 121px;
+    left: 40px;
+
+}
+
+.iPhone {
+    border-radius: 56px 56px 0 0 ;
+}
